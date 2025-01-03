@@ -8,7 +8,7 @@ public class Store {
     public static void main(String[] args) {
         buySnack("ChocolateBar");
         buySnack("Chips");
-        buySnack("Drink");
+        buySnack("Drink");    
     }
 
     private static void buySnack(String snackType) {
